@@ -31,7 +31,11 @@ A smart event management system with recommendation algorithms and seamless user
 ![Sumit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sumit-Bhusal&show_icons=true&theme=radical)  
 [![GitHub Streak](https://streak-stats.demolab.com?user=Sumit-Bhusal&theme=radical)](https://git.io/streak-stats)
 
+## 📝 Most Used Languages
+![Sumit's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit-Bhusal&layout=compact&theme=radical)
+
 ---
+
 
 ## 🧠 Currently Learning
 - 📊 Machine Learning & AI for smart CRM features  
