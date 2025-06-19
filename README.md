@@ -28,8 +28,11 @@ A smart event management system with recommendation algorithms and seamless user
 ---
 
 ## 📊 GitHub Stats
-![Sumit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sumit-Bhusal&show_icons=true&theme=radical)  
-[![GitHub Streak](https://streak-stats.demolab.com?user=Sumit-Bhusal&theme=radical)](https://git.io/streak-stats)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sumit-Bhusal&show_icons=true&theme=radical" alt="Sumit's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=Sumit-Bhusal&theme=radical" alt="GitHub Streak" />
+</p>
 
 ---
 
