@@ -33,7 +33,6 @@ A smart event management system with recommendation algorithms and seamless user
   <img src="https://streak-stats.demolab.com?user=Sumit-Bhusal&theme=radical" alt="GitHub Streak" />
 </p>
 
-
 ---
 
 
