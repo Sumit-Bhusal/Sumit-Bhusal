@@ -51,7 +51,7 @@ A smart event management system with recommendation algorithms and seamless user
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Sumit-Bhusal&theme=radical" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sumit-Bhusal&theme=radical" alt="GitHub Activity Graph" />
 </p>
 
 ---
