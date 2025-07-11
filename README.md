@@ -37,7 +37,7 @@
 
 ![Streak Stats](https://streak-stats.demolab.com?user=Sumit-Bhusal&theme=merko&hide_border=true&fire=2E8B57&ring=2E8B57&background=0D1117)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit-Bhusal&layout=compact&theme=merko&hide_border=true&bg_color=0D1117&title_color=2E8B57&text_color=FFFFFF&hide=html,css)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit-Bhusal&layout=compact&theme=merko&hide_border=true&bg_color=0D1117&title_color=2E8B57&text_color=FFFFFF&hide=html,css,c)
 
 
 [![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sumit-Bhusal&theme=merko&area=true&hide_border=true&bg_color=0D1117&title_color=2E8B57&color=2E8B57&line=2E8B57&point=FFFFFF)](https://github.com/Sumit-Bhusal)
